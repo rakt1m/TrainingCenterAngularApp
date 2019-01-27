@@ -1,1 +1,105 @@
 /* You can add global styles to this file, and also import other style files */
+@import './styles/bootstrap-3.3.7-dist/css/bootstrap.min.css';
+body {
+    position: relative;
+  }
+  
+  .a{
+      background-color: #65497c;
+      color: white;
+  }
+  a:hover {
+      color: white;
+  }
+  
+  .b{
+      text-align: center;
+  }
+  .b >h2{
+      color: #775ba3;
+      font-family: zakir; 
+      font-style: italic;
+      
+  }
+  .b >h4{
+      text-align: justify;
+      font-style: italic;
+  }
+  .c{
+      background-color: ##f0f0f5;
+  }
+  .d >h2{
+       color: #775ba3;
+      font-family: zakir; 
+      text-align: center;
+      font-style: italic;
+  }
+  .d{
+      text-align: justify;
+      font-family: zakir;
+  }
+  .h{
+      background-color: #775ca3;
+      color: white;
+  }
+  h2.i{
+      text-align: center;
+      font-family: zakir;
+  }
+  p.k{
+      text-align: justify;
+      font-family: zakir;
+  }
+  h3.j{
+      font-family: zakir;
+  }
+  h2.m{
+       color: #775ba3;
+      font-family: zakir; 
+      text-align: center;
+  }
+  .n{
+      background-color: #90c5a9;
+      width: 100%;
+      color: white;
+      text-align: center;
+      font-family: zakir;
+      
+  }
+  .n > p{
+      text-align: justify;
+  }
+  .o{
+      background-color: #53865d;
+      width: 100%;
+      color: white;
+      
+      font-family: zakir;
+  }
+  .right {
+      float: right;
+  }
+  ul {
+      list-style-type: none;
+      margin-top: 50px;
+      padding: 5px;
+      overflow: hidden;
+  }
+  
+  li {
+      float: left;
+  }
+  
+  a {
+      display: inline-block;
+      color: white;
+      text-align: center;
+     
+      padding: 14px 16px;
+      text-decoration: none;
+  }
+  
+  li a:hover {
+      color: black;
+  }
+  
