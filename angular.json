@@ -131,6 +131,10 @@
       }
     }
   },
-  "defaultProject": "TrainingCenterAngularApp"
+  "defaultProject": "TrainingCenterAngularApp",
+  "assets": [
+    "src/favicon.ico",
+    "src/assets"
+  ]
  
 }
